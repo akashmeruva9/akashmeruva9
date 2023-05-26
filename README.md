@@ -6,4 +6,4 @@
 
 - I am excited to use my skills and knowledge to help shape the future of mobile technology. Whether it's building robust and efficient backend architectures, crafting pixel-perfect user interfaces, or optimizing performance through careful testing and profiling, i love the process of development.
 
-- Currently pursuing my degree in Computer Science at SRM University, AP. .
+- Currently pursuing my degree in Computer Science at SRM University, AP.
