@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/akash-meruva-ab1420222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-meruva-ab1420222" height="30" width="40" /></a>
-<a href="https://drive.google.com/file/d/1-7Wxhuc6cAb0LJaIQSEDUYsgH1LfzUMc/view?usp=sharing" target="https://drive.google.com/file/d/1-7Wxhuc6cAb0LJaIQSEDUYsgH1LfzUMc/view?usp=sharing"><img align="center" src="https://github.com/akashmeruva9/akashmeruva9/assets/106223361/b0221b82-3ce6-4d19-8ea4-5d99af9497b6" height="30" width="40" /></a>
+<a href="https://drive.google.com/file/d/1-7Wxhuc6cAb0LJaIQSEDUYsgH1LfzUMc/view?usp=sharing" alt="1-7Wxhuc6cAb0LJaIQSEDUYsgH1LfzUMc" target="blank"><img align="center" src="https://github.com/akashmeruva9/akashmeruva9/assets/106223361/b0221b82-3ce6-4d19-8ea4-5d99af9497b6" height="30" width="40" /></a>
 </p>
 ![icons8-kotlin-96]()
 ![icons8-android-96]()
