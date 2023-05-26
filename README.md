@@ -1,4 +1,4 @@
-- Hi there! I am a student Android developer with a passion for creating innovative and intuitive mobile applications.
+- Hi there! I am an Android developer with a passion for creating innovative and intuitive mobile applications.
 
 - As a lifelong technology enthusiast, I have always been fascinated by the way that software can transform the way we interact with the world around us.
 
