@@ -2,7 +2,7 @@
 <h3 align="center">Software Development Engineer @ Autodesk · Building AI Agents</h3>
 
 
-- 🤖 Build AI agents and Multi Agent Workflows for production at Autodesk, multi-agent systems, RAG, Slack/web integrations.
+- 🤖 Building AI agents and Multi Agent Workflows for production at Autodesk, multi-agent systems, RAG, Slack/web integrations.
 - 🥇 Won **Smart India Hackathon 2024** with *Android Armour*, a RASP platform for Android — earned an internship offer from **NCIIPC, Government of India**.
 - 🧩 Mentor at **Google Summer of Code** — cross-platform biometric auth on Compose Multiplatform.
 - 🛠️ Migrated Mifos Mobile to Jetpack Compose, contributing to Mifos Org via C4GT.
@@ -11,7 +11,6 @@
 ### 🌱 Currently exploring
 
 Agent security, AI observability, and how to make multi-agent systems more reliable in production.
-
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
