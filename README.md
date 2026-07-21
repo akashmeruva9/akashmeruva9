@@ -1,27 +1,32 @@
-<h1 align="center">Hey there!👋 I'm Akash Meruva</h1>
+<div align="center">
 
-- Software Development Engineer at **Autodesk**, building agentic AI systems for cloud storage and DNS operations.
+# Hi, I'm Akash Meruva 👋
 
-- I design AI agents, RAG pipelines, and multi-agent workflows integrated into Slack and web platforms — focused on real impact: cost savings, faster ops, and better reliability.
+**Software Development Engineer @ Autodesk** — building agentic AI systems for cloud storage and DNS operations.
 
-- Passionate about Android development and mobile security — winner of **Smart India Hackathon 2024** for Android Armour, a cloud-assisted RASP platform.
+</div>
 
-- B.Tech in Computer Science (AI & ML) from SRM University, AP. Mentor at **Google Summer of Code** for cross-platform authentication with Compose Multiplatform.
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/akash-meruva-ab1420222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-meruva-ab1420222" height="30" width="40" /></a>
-</p>
+- 🤖 At Autodesk, built **StoreboxAI** (a 10-agent Slack mesh for real-time Filer monitoring) and **SAOMA** (automated tuning across 20+ Nasuni Filers) — combined **$45K/year** in savings and an 80–85% cut in manual ops.
+- 🔎 Built **DNSQ**, an AI agent for DNS operations integrated into Slack and web, using RAG + tool-calling — cut request processing time by 75% and saved $20K/year.
+- 📱 Winner of **Smart India Hackathon 2024** for *Android Armour*, a cloud-assisted RASP platform for Android — led to an internship offer at NCIIPC, Government of India.
+- 🎓 B.Tech in Computer Science (AI & ML), SRM University, AP. Mentor at **Google Summer of Code**, guiding cross-platform biometric auth with Compose Multiplatform.
 
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
-<a href="https://www.android.com/intl/en_in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</p>
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-meruva-ab1420222)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:akash.meruva2003@gmail.com)
+
+### Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
