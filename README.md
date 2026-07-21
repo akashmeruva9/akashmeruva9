@@ -1,17 +1,22 @@
-<h1 align="center">Hi 👋, I'm Akash Meruva</h1>
-<h3 align="center">Software Development Engineer at Autodesk, building agentic AI systems for cloud storage & DNS operations</h3>
+<h1 align="center">Hey, I'm Akash 👋</h1>
+<h3 align="center">Software Development Engineer @ Autodesk · Building agentic AI that actually gets used</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akashmeruva9&label=Profile%20views&color=0e75b6&style=flat" alt="akashmeruva9" />
 </p>
 
-- 🔭 I'm currently building **StoreboxAI** & **SAOMA** at Autodesk — a multi-agent Slack mesh and automated tuning system that cut Storebox ops costs by 80–85% ($45K/year saved)
-- 🚀 Previously shipped **DNSQ**, an AI agent for DNS operations (RAG + tool-calling) that cut request processing time by 75% and saved $20K/year
-- 🌱 Currently deepening my knowledge of **Agent Security, AI Observability, and multi-agent architectures**
-- 👯 Looking to collaborate on **RAG pipelines, agentic workflows, and Android security tooling**
-- 🏆 Winner, **Smart India Hackathon 2024** for *Android Armour*, a cloud-assisted RASP platform — led to an internship offer at NCIIPC, Government of India
-- 🎓 Mentor at **Google Summer of Code**, guiding cross-platform biometric auth with Compose Multiplatform
-- 📫 Reach me at **akash.meruva2003@gmail.com**
+- I like building AI agents that replace tedious ops work instead of just chatting — multi-agent systems, RAG pipelines, and Slack/web integrations that ship and get relied on daily.
+- Won **Smart India Hackathon 2024** with *Android Armour* — a cloud-assisted RASP platform that hardens Android apps at the source and APK level. It led to an internship offer from **NCIIPC, Government of India**.
+- Mentor at **Google Summer of Code**, guiding cross-platform biometric auth built on Android - Compose Multiplatform.
+- Contributed to Mifos Org as part of C4GT Programme where i have migrated Mifos Mobile Project to Jetpack Compose.
+- 5 hackathon wins overall — SIH'24, CoinDCX Unfold'23, Indian Oil Hackathon'23, 9 Hacks'22, and C2.
+
+### 🌱 Currently exploring
+
+Agent security, AI observability, and how to make multi-agent systems more reliable in production.
+
+
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
