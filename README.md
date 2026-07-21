@@ -1,8 +1,8 @@
 <h1 align="center">Hey, I'm Akash 👋</h1>
-<h3 align="center">Software Development Engineer @ Autodesk · Building agentic AI that actually gets used</h3>
+<h3 align="center">Software Development Engineer @ Autodesk · Building AI Agents</h3>
 
 
-- 🤖 Build AI agents for production, not demos — multi-agent systems, RAG, Slack/web integrations.
+- 🤖 Build AI agents and Multi Agent Workflows for production at Autodesk, multi-agent systems, RAG, Slack/web integrations.
 - 🥇 Won **Smart India Hackathon 2024** with *Android Armour*, a RASP platform for Android — earned an internship offer from **NCIIPC, Government of India**.
 - 🧩 Mentor at **Google Summer of Code** — cross-platform biometric auth on Compose Multiplatform.
 - 🛠️ Migrated Mifos Mobile to Jetpack Compose, contributing to Mifos Org via C4GT.
